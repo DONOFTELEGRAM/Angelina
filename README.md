@@ -1,8 +1,8 @@
 
-# Daisy X (A telegram Bot Project)
+# x aira (A telegram Bot Project)
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/abrock00/Daisy-x.git)
 
-## Avaiilable on Telegram as [@DaisyXBot](https://t.me/daisyxbot)
+## Avaiilable on Telegram as [@aira](https://t.me/X-AIRA_bot)
 
 ## How to setup/deploy.
 
@@ -10,7 +10,7 @@
 <details>
   <summary>Steps to deploy on Heroku !! </summary>
  
- [Deploy](https://www.heroku.com/deploy?template=https://github.com/inukaasith/Daisy-x.git)
+ [Deploy](https://www.heroku.com/deploy?template=https://github.com/MR-SHRLCK/X-AIRA.git)
 
 ```
 Fill in all the details, Deploy!
