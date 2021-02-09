@@ -1,7 +1,8 @@
 
 # x aira (A telegram Bot Project)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MR-SHRLCK/X-Daisy.git)
 
+[![Deploy](https://telegra.ph/file/2697c9d6ef63d9bbb5ed8.jpg)](https://heroku.com/deploy?template=https://github.com/MR-SHRLCK/X-Daisy.git)
+### Contact me through [Telegram](t.me/Xaira_bot)
 ## Avaiilable on Telegram as [@aira](https://t.me/X-AIRA_bot)
 
 ## How to setup/deploy.
