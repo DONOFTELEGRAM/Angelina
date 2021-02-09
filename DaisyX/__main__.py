@@ -101,7 +101,7 @@ HELP_STRINGS = f"""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 You can donate to the original writer's of the Base code,
-Support them  [Inuka](t.me/InukaASiTH),[Jason](t.me/imjanindu),"""
+Support them  [N](t.me/Godzilla365,[Jason](t.me/imjanindu),"""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -419,7 +419,7 @@ def DaisyX_about_callback(update, context):
     elif query.data == "aboutmanu_credit":
         query.message.edit_text(
             text=f"*{dispatcher.bot.first_name} Is the redisigned version of Daisy and Naruto for the best performance.*"
-            f"\n\nBased on [cinderella](https://github.com/Sur-vivor/CinderellaProBot) + [Xaira](https://github.com/MR-SHRLCK/Xaira)."
+            f"\n\nBased on [Saithama](https://github.com/AnimeKaizoku/SaitamaRobot) + [suzuya](https://github.com/Godzilla-0/Suzuya_ProBot)."
             f"\n\n{dispatcher.bot.first_name}'s source code was written by InukaASiTH and Imjanindu"
             f"\n\nIf Any Question About {dispatcher.bot.first_name}, \nLet Us Know At @{SUPPORT_CHAT}.",
             parse_mode=ParseMode.MARKDOWN,
