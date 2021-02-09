@@ -86,7 +86,7 @@ buttons = [
 
 
 HELP_STRINGS = f"""
-*Main Commands :* [Aira](https://telegra.ph/file/473cc17913393959e0667.jpg)
+*Main Commands :* [X aira](https://telegra.ph/file/8359843bb6bc461376e3a.jpg)
 ✪ /start: Starts me! You've probably already used this.
 ✪ /help: Click this, I'll let you know about myself!
 ✪ /donate: You can support my creater using this command.
