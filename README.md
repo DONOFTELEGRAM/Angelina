@@ -7,7 +7,7 @@
 
 ## How to setup/deploy.
 
-### I will write a detailed documentation later
+### I don't like to write a detailed documentation later lol
 <details>
   <summary>Steps to deploy on Heroku !! </summary>
  
