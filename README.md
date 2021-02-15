@@ -4,7 +4,11 @@
 [![Deploy](https://telegra.ph/file/2697c9d6ef63d9bbb5ed8.jpg)](https://heroku.com/deploy?template=https://github.com/MR-SHRLCK/X-Daisy.git)
 ### Contact me through [Telegram](https://t.me/Xaira_bot)
 ## Avaiilable on Telegram as [aira](https://t.me/X-AIRA_bot)
-
+### bot source 
+[BASE SOURCE 1](https://github.com/AnimeKaizoku/SaitamaRobot)
+[BASE SOURCE 2](https://github.com/Godzilla-0/Suzuya_ProBot)
+### Credits [Saitama](https://t.me/SaitamaRobot) [Dev teams](https://t.me/OnePunchDev) [bot creator](https://t.me/Sawada) And [Suzuya](https://t.me/Suzuya_proBot) [creator](https//t.me/Godzilla365) without their works this wrok is un done
+All credits belongs to 
 ## How to setup/deploy.
 
 ### I don't like to write a detailed documentation later lol
