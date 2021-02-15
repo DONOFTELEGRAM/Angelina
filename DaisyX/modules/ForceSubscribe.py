@@ -56,13 +56,13 @@ def _onUnMuteRequest(client, cb):
                 except UserNotParticipant:
                     client.answer_callback_query(
                         cb.id,
-                        text=f"❗ අපේ @{channel} channel එකට Join වෙලා 'UnMute Me' button එක ආපහු ඔබන්න.",
+                        text=f"❗ Hey @{channel} its  my channel  Join and press 'UnMute Me' button.",
                         show_alert=True,
                     )
             else:
                 client.answer_callback_query(
                     cb.id,
-                    text="❗ ඔයාව වෙන හේතුවක් නිසා Admin ල mute කරලයි ඉන්නෙ.",
+                    text="❗ contact Admin .",
                     show_alert=True,
                 )
         else:
@@ -78,7 +78,7 @@ def _onUnMuteRequest(client, cb):
             else:
                 client.answer_callback_query(
                     cb.id,
-                    text="❗ අවවාදයයි: ඔයාට කතාකරන්න පුලුවන්කම තියෙද්දි button එක click කරන්න එපා.",
+                    text="❗ press unmute me button and chat.",
                     show_alert=True,
                 )
 
@@ -100,7 +100,7 @@ def _check_member(client, message):
             except UserNotParticipant:
                 try:
                     sent_message = message.reply_text(
-                        "ආයුබෝවන් {} 🙏 \n \n **ඔයා අපේ @{} Channel එකට තාම Join වෙලා නෑ** 😭 \n කරුණාකරල ඒකට Join වෙලා පහල තියන **UNMUTE ME** Button එක touch කරන්න. \n \n **[👉 OUR CHANNEL 👈](https://t.me/{})**".format(
+                        "Hey  {} 🙏 \n \n **pls join @{} Channel Join ** 😭 \n and press**UNMUTE ME** Button  touch කරන්න. \n \n **[👉 OUR CHANNEL 👈](https://t.me/{})**".format(
                             message.from_user.mention, channel, channel
                         ),
                         disable_web_page_preview=True,
@@ -119,13 +119,13 @@ def _check_member(client, message):
                     )
                 except ChatAdminRequired:
                     sent_message.edit(
-                        "❗ **මම මේකෙ Admin නෙමෙයි..**\n__මට Ban Permissions එක්ක Admin දීල ආපහු උත්සාහ කරන්න.. \n#Ending FSub...__"
+                        "❗ ** Admin +$$4&..**\n__ need Ban Permissions  Admin ද.. \n#Ending FSub...__"
                     )
 
             except ChatAdminRequired:
                 client.send_message(
                     chat_id,
-                    text=f"❗ **මම @{channel} එකේ Admin නෙමෙයි.**\n__මට ඒකෙ Admin දීල ආපහු Add කරන්න.\n#Leaving this chat...__",
+                    text=f"❗ **my@{channel}  Admin .**\n__::: Admin  Add .\n#Leaving this chat...__",
                 )
 
 
