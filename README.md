@@ -7,8 +7,10 @@
 ### bot source 
 [BASE SOURCE 1](https://github.com/AnimeKaizoku/SaitamaRobot)/
 [BASE SOURCE 2](https://github.com/Godzilla-0/Suzuya_ProBot)
-### Credits [Saitama](https://t.me/SaitamaRobot) [Dev teams](https://t.me/OnePunchDev) [bot creator](https://t.me/Sawada) And [Suzuya](https://t.me/Suzuya_proBot) [creator](https//t.me/Godzilla365) without their works this wrok is un done
-All credits belongs to 
+### Credits All credits belongs to  [Saitama](https://t.me/SaitamaRobot) saithama devlopers [Dev teams](https://t.me/OnePunchDev)And creator [bot creator](https://t.me/Sawada) And [Suzuya](https://t.me/Suzuya_proBot) [creator](https//t.me/Godzilla365) without their works this wrok is un done.
+### Notice 
+Who kang this repo? I don't know.. so kepp Credits to [Saitama](https://t.me/SaitamaRobot) saithama devlopers [Dev teams](https://t.me/OnePunchDev)And creator [bot creator](https://t.me/Sawada) And [Suzuya](https://t.me/Suzuya_proBot) [creator](https//t.me/Godzilla365) kepp Credits this is a part of manners
+### Notice 
 ## How to setup/deploy.
 
 ### I don't like to write a detailed documentation later lol
