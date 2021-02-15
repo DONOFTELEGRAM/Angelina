@@ -5,7 +5,7 @@
 ### Contact me through [Telegram](https://t.me/Xaira_bot)
 ## Avaiilable on Telegram as [aira](https://t.me/X-AIRA_bot)
 ### bot source 
-[BASE SOURCE 1](https://github.com/AnimeKaizoku/SaitamaRobot)
+[BASE SOURCE 1](https://github.com/AnimeKaizoku/SaitamaRobot)/
 [BASE SOURCE 2](https://github.com/Godzilla-0/Suzuya_ProBot)
 ### Credits [Saitama](https://t.me/SaitamaRobot) [Dev teams](https://t.me/OnePunchDev) [bot creator](https://t.me/Sawada) And [Suzuya](https://t.me/Suzuya_proBot) [creator](https//t.me/Godzilla365) without their works this wrok is un done
 All credits belongs to 
