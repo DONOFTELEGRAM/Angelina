@@ -12,7 +12,7 @@
 Who kang this repo? I don't know.. so kepp Credits to [Saitama](https://t.me/SaitamaRobot) saithama devlopers [Dev teams](https://t.me/OnePunchDev)And creator [bot creator](https://t.me/Sawada) And [Suzuya](https://t.me/Suzuya_proBot) [creator](https//t.me/Godzilla365) kepp Credits this is a part of manners
 ### Notice 
 ## How to setup/deploy.
-
+![ Repo size](https://img.shields.io/github/repo-size/MR-SHRLCK/X-daisy)
 ### I don't like to write a detailed documentation later lol
 <details>
   <summary>Steps to deploy on Heroku !! </summary>
