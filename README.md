@@ -1,6 +1,6 @@
 
 # x aira (A telegram Bot Project) [ my ambition is making Daisy bot now I will created aria in this name but I will make a bot in the name of Daisy with some few edits you can expect Daisy later]
-
+![ Repo size](https://img.shields.io/github/repo-size/MR-SHRLCK/X-daisy
 [![Deploy](https://telegra.ph/file/2697c9d6ef63d9bbb5ed8.jpg)](https://heroku.com/deploy?template=https://github.com/MR-SHRLCK/X-Daisy.git)
 ### Contact me through [Telegram](https://t.me/Xaira_bot)
 ## Avaiilable on Telegram as [aira](https://t.me/X-AIRA_bot)
@@ -12,7 +12,7 @@
 Who kang this repo? I don't know.. so kepp Credits to [Saitama](https://t.me/SaitamaRobot) saithama devlopers [Dev teams](https://t.me/OnePunchDev)And creator [bot creator](https://t.me/Sawada) And [Suzuya](https://t.me/Suzuya_proBot) [creator](https//t.me/Godzilla365) kepp Credits this is a part of manners
 ### Notice 
 ## How to setup/deploy.
-![ Repo size](https://img.shields.io/github/repo-size/MR-SHRLCK/X-daisy)
+)
 ### I don't like to write a detailed documentation later lol
 <details>
   <summary>Steps to deploy on Heroku !! </summary>
