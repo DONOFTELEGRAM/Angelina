@@ -379,7 +379,7 @@ def DaisyX_about_callback(update, context):
                     ],
                     [
                         InlineKeyboardButton(
-                            text="❔Help & Commands", callback_data="help_back"
+                            text="Help & Commands ❔", callback_data="help_back"
                         )
                     ],
                     [InlineKeyboardButton(text="Back", callback_data="aboutmanu_back")],
@@ -398,7 +398,7 @@ def DaisyX_about_callback(update, context):
         query.message.edit_text(
             text=f"* ｢ BASIC HELP 」*"
             f"\nIf You Can Also Add {dispatcher.bot.first_name} To Your Chats By Clicking [Here](http://t.me/{dispatcher.bot.username}?startgroup=true) And Selecting Chat. \n"
-            f"\n\nYou Can get support {dispatcher.bot.first_name} by joining [support](https://t.me/XairaBot).\n"
+            f"\n\nYou Can get support {dispatcher.bot.first_name} by joining [support](https://t.me/TG_BotZ).\n"
             f"",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -537,7 +537,7 @@ def get_help(update, context):
                     ],
                     [
                         InlineKeyboardButton(
-                            text="Support Chat 💻",
+                            text="Support Chat 📢",
                             url="https://t.me/{}".format(SUPPORT_CHAT),
                         )
                     ],
