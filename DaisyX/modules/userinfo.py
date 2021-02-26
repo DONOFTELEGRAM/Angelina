@@ -238,7 +238,10 @@ def info(update: Update, context: CallbackContext):
     else:
         return
 
-    rep = message.reply_text("<code>Hold tight while I steal some data from FBI Database...</code>", parse_mode=ParseMode.HTML)
+    rep = message.reply_text(
+        "<code>Hold tight while I steal some data from FBI Database...</code>",
+        parse_mode=ParseMode.HTML,
+    )
 
     text = (
         f"╒═══「<b> User Info:</b> 」\n"

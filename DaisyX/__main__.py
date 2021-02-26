@@ -78,9 +78,7 @@ buttons = [
         InlineKeyboardButton(text="Help ❔", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(
-            text="Add Me 💃", url="t.me/VillainProBot?startgroup=true"
-        ),
+        InlineKeyboardButton(text="Add Me 💃", url="t.me/VillainProBot?startgroup=true"),
     ],
 ]
 
@@ -222,9 +220,7 @@ def start(update: Update, context: CallbackContext):
             )
     else:
         update.effective_message.reply_text(
-            "Heya :) PM me if u have any questions on how to use me!".format(
-                uptime
-            ),
+            "Heya :) PM me if u have any questions on how to use me!".format(uptime),
             parse_mode=ParseMode.HTML,
         )
 
