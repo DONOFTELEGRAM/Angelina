@@ -408,13 +408,13 @@ def DaisyX_about_callback(update, context):
                 [
                     [
                         InlineKeyboardButton(
-                            text="Admins Settings", callback_data="aboutmanu_permis"
+                            text="Aᴅᴍɪɴ Sᴇᴛᴛɪɴɢs", callback_data="aboutmanu_permis"
                         ),
                         InlineKeyboardButton(
-                            text="Anti Spam", callback_data="aboutmanu_spamprot"
+                            text="Aɴᴛɪ Sᴘᴀᴍ", callback_data="aboutmanu_spamprot"
                         ),
                     ],
-                    [InlineKeyboardButton(text="Back", callback_data="aboutmanu_")],
+                    [InlineKeyboardButton(text="🔙  Bᴀᴄᴋ", callback_data="aboutmanu_")],
                 ]
             ),
         )
