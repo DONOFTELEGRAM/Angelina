@@ -380,7 +380,11 @@ def DaisyX_about_callback(update, context):
                             text="Hᴇʟᴘ & Cᴏᴍᴍᴀɴᴅs  ❔", callback_data="help_back"
                         )
                     ],
-                    [InlineKeyboardButton(text="🔙  Bᴀᴄᴋ", callback_data="aboutmanu_back")],
+                    [
+                        InlineKeyboardButton(
+                            text="🔙  Bᴀᴄᴋ", callback_data="aboutmanu_back"
+                        )
+                    ],
                 ]
             ),
         )
