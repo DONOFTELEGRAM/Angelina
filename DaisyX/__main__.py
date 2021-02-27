@@ -75,7 +75,7 @@ buttons = [
         InlineKeyboardButton(text="ɪɴғᴏ  🔖", callback_data="aboutmanu_"),
     ],
     [
-        InlineKeyboardButton(text="Hᴇʟᴘ & Cᴏᴍᴍᴀɴᴅs  ❔", callback_data="help_back"),
+        InlineKeyboardButton(text="Hᴇʟᴘ & Cᴏᴍᴍᴀɴᴅs ❔", callback_data="help_back"),
     ],
     [
         InlineKeyboardButton(
