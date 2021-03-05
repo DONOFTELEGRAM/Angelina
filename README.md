@@ -1,9 +1,9 @@
 
-# x aira (A telegram Bot Project) [ my ambition is making Daisy bot now I will created aria in this name but I will make a bot in the name of Daisy with some few edits you can expect Daisy later]
-![ Repo size](https://img.shields.io/github/repo-size/MR-SHRLCK/X-daisy)
-[![Deploy](https://telegra.ph/file/2697c9d6ef63d9bbb5ed8.jpg)](https://heroku.com/deploy?template=https://github.com/MR-SHRLCK/X-Daisy.git)
-### Contact me through [Telegram](https://t.me/Xaira_bot)
-## Avaiilable on Telegram as [aira](https://t.me/X-AIRA_bot)
+
+![ Repo size](https://img.shields.io/github/repo-size/DONOFTELEGRAM/Angelina)
+[![Deploy](https://telegra.ph/file/2697c9d6ef63d9bbb5ed8.jpg)](https://heroku.com/deploy?template=https://github.com/DONOFTELEGRAM/Angelina.git)
+### Contact me through [Telegram](https://t.me/LEGEND_OF_UNIVERSE)
+## Avaiilable on Telegram as [aira](https://t.me/VillainProBot)
 ### bot source 
 [BASE SOURCE 1](https://github.com/AnimeKaizoku/SaitamaRobot)/
 [BASE SOURCE 2](https://github.com/Godzilla-0/Suzuya_ProBot)
