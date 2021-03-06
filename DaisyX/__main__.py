@@ -490,7 +490,7 @@ def DaisyX_about_callback(update, context):
                         InlineKeyboardButton(
                             text="Credits", callback_data="aboutmanu_credit"
                         ),
-                        InlineKeyboardButton(text="🔙 Back", callback_data="aboutmanu_"),
+                        InlineKeyboardButton(text="Back", callback_data="aboutmanu_"),
                     ]
                 ]
             ),
