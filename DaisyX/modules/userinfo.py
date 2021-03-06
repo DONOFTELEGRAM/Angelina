@@ -244,7 +244,7 @@ def info(update: Update, context: CallbackContext):
     )
 
     text = (
-        f"╒═══「<b> User Info:</b> 」\n"
+        f"<b> User Info:</b> \n"
         f"ID: <code>{user.id}</code>\n"
         f"First Name: {html.escape(user.first_name)}"
     )
