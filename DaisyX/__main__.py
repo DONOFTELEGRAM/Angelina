@@ -78,9 +78,7 @@ buttons = [
         InlineKeyboardButton(text="Hᴇʟᴘ & Cᴏᴍᴍᴀɴᴅs ❔", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(
-            text="Aᴅᴅ Mᴇ  🎉", url="t.me/AnanyaRoBot?startgroup=true"
-        ),
+        InlineKeyboardButton(text="Aᴅᴅ Mᴇ  🎉", url="t.me/AnanyaRoBot?startgroup=true"),
     ],
 ]
 
